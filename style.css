@@ -1,0 +1,34 @@
+
+.text{
+    scroll-behavior: smooth;
+}
+.text_1::before{
+    content: "javohir ";
+}
+.text_1::after{
+    content: "alimov";
+}
+ .text_2::before{
+    content: 'mening';
+}
+.text_2::before{
+    content: 'ismim';
+}
+.text_3::before{
+    content: 'javohir';
+}
+.text_3::before{
+    content: 'mening';
+}
+.text_4::before{
+    content: 'mening';
+}
+.text_4::before{
+    content: 'mening';
+}
+.text_5::before{
+    content: 'mening';
+}
+.text_5::before{
+    content: 'mening';
+}
